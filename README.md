@@ -6,7 +6,7 @@
 [![Screen-Shot-2023-10-18-at-10-45-00-PM.png](https://i.postimg.cc/L5NXzSVz/Screen-Shot-2023-10-18-at-10-45-00-PM.png)](https://postimg.cc/2LLrDPM6)
 
 ## Iniciar sesión 
-![Janeth](https://github.com/emilybibi04/Taller2_AspectJ/assets/127567902/6f482f33-d3a0-4523-a004-3dc9a7241616)
+[![276411573-6f482f33-d3a0-4523-a004-3dc9a7241616.png](https://i.postimg.cc/rmbdbM4M/276411573-6f482f33-d3a0-4523-a004-3dc9a7241616.png)](https://postimg.cc/34XJ0M9c)
 
 ## Cerrar Sesión
-![Johann](https://github.com/emilybibi04/Taller2_AspectJ/assets/139030531/8cdcb603-6aa0-4812-9afc-19d4e76a5759)
+[![276413145-8cdcb603-6aa0-4812-9afc-19d4e76a5759.png](https://i.postimg.cc/QdbbH4w1/276413145-8cdcb603-6aa0-4812-9afc-19d4e76a5759.png)](https://postimg.cc/BjjDzgqn)
