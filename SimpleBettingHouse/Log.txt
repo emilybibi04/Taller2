@@ -1,0 +1,2 @@
+Sesión iniciada por usuario: [nickname = Tili, password = 123]    Fecha: [Wed Oct 18 21:18:49 ECT 2023]
+Sesión cerrada por usuario: [nickname = Tili, password = 123]    Fecha: [Wed Oct 18 21:18:54 ECT 2023]

@@ -1,0 +1,1 @@
+Usuario registrado: [nickname = Tili, password = 123]    Fecha: [Wed Oct 18 21:18:40 ECT 2023]
